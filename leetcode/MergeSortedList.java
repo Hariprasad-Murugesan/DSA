@@ -1,4 +1,3 @@
-package Dsa.leetcode;
 
 class MergeSortedList {
     public class ListNode {

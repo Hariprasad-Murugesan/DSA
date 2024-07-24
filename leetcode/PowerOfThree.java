@@ -1,4 +1,3 @@
-package Dsa.leetcode;
 
 class PowerOfThree {
     public boolean isPowerOfThree(int n) {

@@ -1,4 +1,3 @@
-package Dsa.leetcode;
 
 public class    MaxProfit {
     public int maxProfit(int[] prices) {

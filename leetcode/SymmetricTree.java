@@ -1,4 +1,3 @@
-package Dsa.leetcode;
 
 class SymmetricTree {
       public class TreeNode {

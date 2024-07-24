@@ -1,4 +1,3 @@
-package Dsa.leetcode;
 
 class FindTheIndexOfTheFirstOccurenceInAString {
     public static int strStr (String haystack, String needle) {

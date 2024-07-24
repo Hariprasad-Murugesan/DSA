@@ -1,4 +1,3 @@
-package Dsa.leetcode;
 
 class InvertBinaryTree {
       public static class TreeNode {

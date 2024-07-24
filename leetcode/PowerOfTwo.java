@@ -1,4 +1,3 @@
-package Dsa.leetcode;
 
 class PowerOfTwo {
     public boolean isPowerOfTwo(int n) {

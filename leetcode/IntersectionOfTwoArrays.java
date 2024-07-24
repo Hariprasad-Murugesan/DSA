@@ -1,6 +1,3 @@
-package Dsa.leetcode;
-
-import java.util.*;
 
 import java.util.*;
 class IntersectionOfTwoArrays {

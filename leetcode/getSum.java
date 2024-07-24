@@ -1,4 +1,3 @@
-package Dsa.leetcode;
 
 class getSum {
     public static class TreeNode {

@@ -1,4 +1,3 @@
-package Dsa.leetcode;
 
 import java.util.HashSet;
 import java.util.Hashtable;

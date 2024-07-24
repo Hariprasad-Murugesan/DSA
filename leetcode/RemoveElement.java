@@ -1,4 +1,3 @@
-package Dsa.leetcode;
 
 class RemoveElement {
     public  int removeElement(int[] nums, int val) {

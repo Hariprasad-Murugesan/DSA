@@ -1,4 +1,3 @@
-package Dsa.leetcode;
 
 class MinimumDepth {
     public static class TreeNode {

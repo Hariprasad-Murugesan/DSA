@@ -1,4 +1,3 @@
-package Dsa.leetcode;
 
 class MaximumDepth {
     public static class TreeNode {

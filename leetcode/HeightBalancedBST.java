@@ -1,4 +1,3 @@
-package Dsa.leetcode;
 
 class HeightBalancedBST {
     public static class TreeNode {
