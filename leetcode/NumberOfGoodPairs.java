@@ -1,5 +1,4 @@
 
-import java.util.EnumSet;
 import java.util.HashMap;
 
 class NumberOfGoodPairs {

@@ -1,7 +1,5 @@
 
 
-import java.util.HashMap;
-
 class ContainsDuplicateII {
     public static boolean containsNearbyDuplicate(int[] nums, int k) {
       /*  HashMap<Integer, Integer> map = new HashMap<>();

@@ -18,7 +18,6 @@ class MaximumDepth {
         }
         int leftDepth = maxDepth(root.left);
         int rightDepth =  maxDepth(root.right);
-        int maxSubtreeDepth = Math.max(leftDepth, rightDepth);
         return Math.max(leftDepth, rightDepth) + 1;
     }
     public static void main(String[] args) {

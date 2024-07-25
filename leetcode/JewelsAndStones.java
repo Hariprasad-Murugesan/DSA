@@ -1,9 +1,4 @@
 
-import java.util.HashSet;
-import java.util.Hashtable;
-import java.util.Set;
-
-import static java.lang.reflect.Array.set;
 
 class JewelsAndStones {
 

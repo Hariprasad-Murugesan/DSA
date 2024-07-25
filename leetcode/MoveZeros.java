@@ -1,6 +1,4 @@
 
-import java.util.ArrayList;
-import java.util.List;
 
 class MoveZeros {
     public  void moveZeroes(int[] nums) {

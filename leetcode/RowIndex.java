@@ -2,8 +2,6 @@
 import java.util.ArrayList;
 import java.util.List;
 
-import static java.util.stream.DoubleStream.generate;
-
 public class RowIndex {
     public List<List<Integer>> generate(int numRows) {
         List<List<Integer>> pascalsTriangle = new ArrayList<>();

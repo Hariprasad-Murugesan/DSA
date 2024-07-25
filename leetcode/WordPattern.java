@@ -8,8 +8,6 @@ class WordPattern {
             return false;
         }
         HashMap<Character, String> charToWord = new HashMap<>();
-        HashMap<String, Character> wordToChar = new HashMap<>();
-
         for (int i = 0; i < pattern.length(); i++) {
             char currentChar = pattern.charAt(i);
             String currentWord = words[i];
