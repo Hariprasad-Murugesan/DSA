@@ -2,7 +2,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-class MajorityElement {
+class MajorityElement {	
     public static int majorityElement(int[] nums) {
        int n = nums.length;
         Map<Integer, Integer> map = new HashMap<>();
